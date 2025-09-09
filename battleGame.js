@@ -68,3 +68,4 @@ let hero = new Player("Knight", 100, 20, "Power Slash");
 let monster = new Enemy("Orc", 120, 15, "Brute");
 
 battle(hero, monster);
+
